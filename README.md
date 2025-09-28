@@ -73,7 +73,8 @@ La importancia de esta práctica radica en que refleja aplicaciones reales como:
 - **Monitoreo ambiental** (temperatura, humedad, calidad del aire).  
 - **Control de procesos industriales**.  
 - **Aplicaciones educativas y de investigación**.  
-Mientras el **Lab03** introdujo los fundamentos de acceso remoto, lectura de datos y gráficos en Python, el **Lab04** consolida estos aprendizajes integrando **interfaces web y almacenamiento de datos**, fortaleciendo así las competencias en **IoT, automatización y sistemas embebidos modernos**.  
+
+✅ Mientras el **Lab03** introdujo los fundamentos de acceso remoto, lectura de datos y gráficos en Python, el **Lab04** consolida estos aprendizajes integrando **interfaces web y almacenamiento de datos**, fortaleciendo así las competencias en **IoT, automatización y sistemas embebidos modernos**.  
 
 
 ## 📚 3. Marco Teórico
