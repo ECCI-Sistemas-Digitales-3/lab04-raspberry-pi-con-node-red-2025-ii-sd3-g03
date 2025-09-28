@@ -50,17 +50,31 @@
 
 ---
 
-## 📘 2. Introducción
-En la actualidad, la visualización y el procesamiento de datos juegan un papel esencial en proyectos de **Internet de las Cosas (IoT)**. Cada dispositivo conectado genera información que debe ser **capturada, almacenada, procesada y mostrada de forma clara** al usuario final.  
+## 📘 2. Introducción  
 
-La **Raspberry Pi**, debido a su bajo costo y gran versatilidad, se ha convertido en una de las plataformas más utilizadas en proyectos de IoT. En combinación con **Node-RED**, herramienta creada por IBM para la programación visual basada en flujos, se logra una solución accesible, escalable y potente.  
+En el campo de la **Ingeniería Electrónica** y el **Internet de las Cosas (IoT)**, es esencial que los estudiantes adquieran competencias en el uso de hardware y software para el diseño de soluciones tecnológicas. En este contexto, la **Raspberry Pi** se ha convertido en una herramienta clave gracias a su bajo costo, tamaño compacto y capacidad para ejecutar aplicaciones de control, monitoreo y comunicación.  
 
-Este laboratorio combina:  
-1. **Node-RED** → Creación de interfaces gráficas para visualizar y manipular datos en tiempo real.  
-2. **Python** → Procesamiento avanzado de los datos generados.  
-3. **Raspberry Pi** → Ejecución local como servidor y punto de conexión de hardware y software.  
+En el **Lab03**, se trabajó con la Raspberry Pi Zero W empleando **VNC Viewer** como acceso remoto al entorno gráfico. Se desarrolló un programa en **Python** para simular la lectura de un sensor y graficar datos en tiempo real con **Matplotlib**, lo que permitió comprender:  
 
----
+- La captura periódica de datos.  
+- La visualización dinámica en tiempo real.  
+- La integración de comandos del sistema con Python.  
+
+En el **Lab04**, se avanza hacia herramientas más profesionales mediante **Node-RED**, una plataforma de programación visual ampliamente usada en **IoT** e **Industria 4.0**. A diferencia del enfoque anterior, Node-RED permite crear **dashboards web interactivos** para visualizar y gestionar datos de forma más eficiente e intuitiva.  
+
+El objetivo de este laboratorio es:  
+- Diseñar un flujo en Node-RED con un **color picker**.  
+- Mostrar los valores seleccionados en formato **RGB**.  
+- Almacenar dichos valores en un archivo de texto.  
+- Procesarlos en Python y convertirlos a otros formatos (como **Hexadecimal**).  
+
+La importancia de esta práctica radica en que refleja aplicaciones reales como:  
+- **Domótica** con LEDs RGB.  
+- **Monitoreo ambiental** (temperatura, humedad, calidad del aire).  
+- **Control de procesos industriales**.  
+- **Aplicaciones educativas y de investigación**.  
+Mientras el **Lab03** introdujo los fundamentos de acceso remoto, lectura de datos y gráficos en Python, el **Lab04** consolida estos aprendizajes integrando **interfaces web y almacenamiento de datos**, fortaleciendo así las competencias en **IoT, automatización y sistemas embebidos modernos**.  
+
 
 ## 📚 3. Marco Teórico
 
