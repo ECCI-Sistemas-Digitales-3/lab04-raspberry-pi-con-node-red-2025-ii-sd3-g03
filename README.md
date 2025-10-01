@@ -188,7 +188,7 @@ Este mismo procedimiento puede aplicarse en:
 ---
 
 ## ⚙️ 5. Procedimiento
-
+<img scr="1.webp">
 ### 🔹 5.1 Parte 1: Instalación y configuración de Node-RED
 1. Conexión por SSH:  
 ```bash
