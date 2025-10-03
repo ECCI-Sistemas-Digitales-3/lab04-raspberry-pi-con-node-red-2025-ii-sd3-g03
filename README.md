@@ -195,7 +195,7 @@ Este mismo procedimiento puede aplicarse en:
 
 
 Inicialización de configuración en Node-RED
-<img width="1064" height="521" alt="Image" src= https://github.com/ECCI-Sistemas-Digitales-3/lab04-raspberry-pi-con-node-red-2025-ii-sd3-g03/issues/2#issue-3479755987>
+ https://github.com/ECCI-Sistemas-Digitales-3/lab04-raspberry-pi-con-node-red-2025-ii-sd3-g03/issues/2#issue-3479755987
 ## Documentación
 
 <!-- Incluir diagramas y adjuntar al repositorio, en una carpeta src, el flujo que crearon -->
