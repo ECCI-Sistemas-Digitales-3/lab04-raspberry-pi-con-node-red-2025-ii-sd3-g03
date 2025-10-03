@@ -190,10 +190,11 @@ Este mismo procedimiento puede aplicarse en:
 ## ⚙️ 5. Procedimiento
 <img scr="1.webp">
 ### 🔹 5.1 Parte 1: Instalación y configuración de Node-RED
-<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/7a54e9e1-f965-4c91-add6-1e3ac776382c" />
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/a22b9ff1-859f-4da7-9e86-ebadbb9e3a8f" />
 
 Inicialización de configuración en Node-RED
- [](![Image](https://github.com/user-attachments/assets/7a54e9e1-f965-4c91-add6-1e3ac776382c))
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/7a54e9e1-f965-4c91-add6-1e3ac776382c" />
+
  ## Documentación
 
 <!-- Incluir diagramas y adjuntar al repositorio, en una carpeta src, el flujo que crearon -->
