@@ -253,7 +253,7 @@ Se incluyen advertencias importantes como:
 Además, se confirma nuevamente la generación del archivo **`settings.js`**, el cual centraliza todas las configuraciones del sistema. 
 
 Recomendaciones de seguridad y archivo de configuración 
-<img width="1064" height="521" alt="Image" src="https://github.com/ECCI-Sistemas-Digitales-3/lab04-raspberry-pi-con-node-red-2025-ii-sd3-g03/issues/4#issue-3479784469" />
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/48fe6871-b947-4a13-82df-bece0e4ebdca" />
 **Fuente:** Elaboración propia
 
 🔐 **Clave:** Este paso garantiza un entorno seguro y evita vulnerabilidades al usar Node-RED en redes locales o públicas.  
@@ -277,7 +277,7 @@ El procedimiento incluye:
 ⚙️ **Duración estimada:** Entre **20 y 30 minutos** en modelos de Raspberry Pi de menor rendimiento. 
 
 Proceso de instalación de Node-RED en Raspberry Pi
-<img width="1064" height="521" alt="Image" src="https://github.com/ECCI-Sistemas-Digitales-3/lab04-raspberry-pi-con-node-red-2025-ii-sd3-g03/issues/5#issue-3479785220" />
+<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/56b18f8e-9942-48ec-88c3-d8899615b12" />
 **Fuente:** Elaboración propia
 ✅ **Resultado esperado:** Un entorno actualizado y optimizado para trabajar con **IoT**.  
 
