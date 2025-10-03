@@ -192,9 +192,10 @@ Este mismo procedimiento puede aplicarse en:
 ### 🔹 5.1 Parte 1: Instalación y configuración de Node-RED
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/a22b9ff1-859f-4da7-9e86-ebadbb9e3a8f" />
 1. Conexión por SSH:  
-```bash
-ssh usuario_raspberry@ip
 
+
+Inicialización de configuración en Node-RED
+<img width="1064" height="521" alt="Image" src= https://github.com/ECCI-Sistemas-Digitales-3/lab04-raspberry-pi-con-node-red-2025-ii-sd3-g03/issues/2#issue-3479755987>
 ## Documentación
 
 <!-- Incluir diagramas y adjuntar al repositorio, en una carpeta src, el flujo que crearon -->
