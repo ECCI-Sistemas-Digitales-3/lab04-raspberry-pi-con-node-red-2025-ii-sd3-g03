@@ -207,7 +207,7 @@ Este archivo es fundamental porque:
 I### Figura 1
 Inicialización de configuración en Node-RED  
 
-<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/7a54e9e1-f965-4c91-add6-1e3ac776382c" />
+<img width="1064" height="521" alt="Image" src="https://github.com/ECCI-Sistemas-Digitales-3/lab04-raspberry-pi-con-node-red-2025-ii-sd3-g03/issues/3#issue-3479779873" />
 
 **Fuente:** Elaboración propia
 
