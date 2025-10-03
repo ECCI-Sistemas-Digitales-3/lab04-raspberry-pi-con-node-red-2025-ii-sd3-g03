@@ -188,12 +188,93 @@ Este mismo procedimiento puede aplicarse en:
 ---
 
 ## ⚙️ 5. Procedimiento
-<img scr="1.webp">
-### 🔹 5.1 Parte 1: Instalación y configuración de Node-RED
-<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/a22b9ff1-859f-4da7-9e86-ebadbb9e3a8f" />
 
-Inicialización de configuración en Node-RED
+# 📷 Análisis de Imágenes – Instalación y Configuración de Node-RED
+
+---
+
+## Imagen 1 – Inicialización de configuración en Node-RED
+
+En esta imagen se observa el proceso de creación del archivo de configuración **`settings.js`** dentro del directorio del usuario:
+
+
+Este archivo es fundamental porque:
+
+- Define los temas de interfaz que se usarán en el editor de Node-RED.  
+- Permite seleccionar el editor de texto por defecto (en este caso **monaco**).  
+- Habilita o deshabilita la opción de cargar módulos externos en los nodos de función.  
+
+I### Figura 1
+Inicialización de configuración en Node-RED  
+
 <img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/7a54e9e1-f965-4c91-add6-1e3ac776382c" />
+
+**Fuente:** Elaboración propia
+
+
+🔑 **Importancia:** Esta etapa asegura que Node-RED quede con parámetros iniciales personalizados antes de comenzar a trabajar con flujos.  
+
+---
+
+## Imagen 2 – Listado de temas disponibles en Node-RED
+
+Aquí se muestra el listado de temas que ofrece Node-RED para personalizar la interfaz gráfica del editor.  
+
+Entre las opciones disponibles se encuentran:
+
+- **monokai**  
+- **dracula**  
+- **solarized**  
+- **night-owl**  
+- (otros más disponibles en la configuración)  
+
+Beneficios de esta opción:
+
+- Mejora la **legibilidad del código** y la comodidad del usuario.  
+- Facilita el trabajo en **diferentes condiciones de luz**.  
+- Permite adaptar el entorno a las **preferencias del programador**.  
+
+🎨 **Relevancia:** La personalización de temas contribuye a la productividad y ergonomía del entorno de desarrollo.  
+
+---
+
+## Imagen 3 – Recomendaciones de seguridad y archivo de configuración
+
+En la tercera imagen se observa la inicialización de parámetros de seguridad en Node-RED.  
+Se incluyen advertencias importantes como:  
+
+- 🚫 **No exponer Node-RED directamente a Internet** sin protección.  
+- 🔑 Configurar **contraseñas y autenticación** para evitar accesos no autorizados.  
+- 🛠️ Modificar el archivo `/etc/sudoers.d/010_pi-nopasswd` para reforzar la seguridad en el uso de comandos administrativos.  
+
+Además, se confirma nuevamente la generación del archivo **`settings.js`**, el cual centraliza todas las configuraciones del sistema.  
+
+🔐 **Clave:** Este paso garantiza un entorno seguro y evita vulnerabilidades al usar Node-RED en redes locales o públicas.  
+
+---
+
+## Imagen 4 – Proceso de instalación de Node-RED en Raspberry Pi
+
+En esta captura se observa la ejecución del **script de instalación** de Node-RED en la Raspberry Pi.  
+
+El procedimiento incluye:  
+
+1. Detener Node-RED si está en ejecución.  
+2. Eliminar versiones previas de **Node.js** y **Node-RED**.  
+3. Instalar la versión actualizada de **Node.js**.  
+4. Limpiar la caché de **npm**.  
+5. Instalar el núcleo de **Node-RED**.  
+6. Reconfigurar nodos existentes y añadir nodos adicionales específicos de Raspberry Pi.  
+7. Crear accesos directos y actualizar el servicio en **systemd**.  
+
+⚙️ **Duración estimada:** Entre **20 y 30 minutos** en modelos de Raspberry Pi de menor rendimiento.  
+
+✅ **Resultado esperado:** Un entorno actualizado y optimizado para trabajar con **IoT**.  
+
+---
+
+
+
 
  ## Documentación
 
