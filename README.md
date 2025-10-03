@@ -277,7 +277,7 @@ El procedimiento incluye:
 ⚙️ **Duración estimada:** Entre **20 y 30 minutos** en modelos de Raspberry Pi de menor rendimiento. 
 
 Proceso de instalación de Node-RED en Raspberry Pi
-<img width="1064" height="521" alt="Image" src="https://github.com/user-attachments/assets/56b18f8e-9942-48ec-88c3-d8899615b12" />
+<img width="1064" height="521" alt="Image" src="(https://github.com/user-attachments/assets/483e1bd2-3bb2-4df9-b455-b9904b82f90e" />
 **Fuente:** Elaboración propia
 ✅ **Resultado esperado:** Un entorno actualizado y optimizado para trabajar con **IoT**.  
 
